@@ -1,5 +1,9 @@
 # Learning MarkDown markup 
 
+# Image 
+
+![just see me](./)
+
 ## Table of content
 * [Usage](#Usage)
 * [Technologies](#Technologies)
