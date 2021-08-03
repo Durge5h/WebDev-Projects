@@ -39,3 +39,20 @@ $ python script.py
 
 > Hey there [_ Imhere_] 
 * `hwhsh`
+
+## Emojies
+
+:+1: :metal: :camel: :tada: 
+
+## Task List
+
+- [x] it's completed
+- [ ] not completed
+
+## Tables
+
+First | Second
+------|-------
+hey | there
+git | hub
+last | one
