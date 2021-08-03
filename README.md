@@ -42,7 +42,7 @@ $ python script.py
 
 ## Emojies
 
-:+1: :metal: :camel: :tada: 
+:+1: :metal: :camel: :tada: :sparkles: :octocat:
 
 ## Task List
 
